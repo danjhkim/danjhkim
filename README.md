@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @danjhkim
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning microservices
-- 💞️ I’m looking to collaborate on anything interesting!
-- 📫 How to reach me danjhkim@gmail.ca
+- Let's all be physically and mentally healthy.
+- Remember time heals all.
