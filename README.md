@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @danjhkim
 - 👀 I’m interested in Web development
 - Let's all be physically and mentally healthy.
-- Remember time heals all.
